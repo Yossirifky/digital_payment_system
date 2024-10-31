@@ -4,7 +4,6 @@ import 'package:digital_payment_system/providers/balance_provider.dart';
 import 'package:digital_payment_system/core/constants/colors.dart';
 import 'package:digital_payment_system/core/constants/strings.dart';
 import '../widgets/CardWidget.dart';
-import '../widgets/BalanceWidget.dart';
 import 'package:digital_payment_system/core/components/ButtonComponent.dart';
 import 'package:digital_payment_system/core/utils/route_utils.dart';
 import '../widgets/NavBarWidget.dart'; // Pastikan untuk mengimpor NavBarWidget
